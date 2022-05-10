@@ -1,2 +1,2 @@
 # windows-10-cleaner
-make sure you installed pyutogui
+make sure you installed pyautogui
